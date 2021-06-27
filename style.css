@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  background-color: #f0ffff;
+}
+.Add {
+  border-radius: 9px;
+}
+.Check {
+  border-radius: 9px;
+}
+.addbtn {
+  background-color: darksalmon;
+  border-radius: 10px;
+  color: aliceblue;
+}
+.checkbtn {
+  background-color: darksalmon;
+  border-radius: 10px;
+  color: aliceblue;
+}
+.removebtn {
+  background-color: darksalmon;
+  border-radius: 10px;
+  color: aliceblue;
+}
+
+.clr {
+  background-color: red;
+  color: black;
+}
+.x {
+  color: brown;
+  font-size: 20px;
+}
+
+#container {
+  background-color: #bfb;
+  width: 400px;
+  height: 300px;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 9px;
+  margin-top: 400px;
+}
+
